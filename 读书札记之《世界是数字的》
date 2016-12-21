@@ -1,0 +1,18 @@
+阅读小记：开智学堂的python课推荐书籍，从豆瓣上购买了电子版，18块。用了大约8小时看完。
+读书笔记：通过阅读这本书，我更彻底地明白了计算机的基本原理，对计算机的硬件构成更了解了，也对网络有了新的认识。由于以前阅读过《计算机是怎样跑起来的》，感觉两本书的知识结合起来，对于理解计算机的基本工作原理有非常大的作用。
+
+（过了一周时间，都忘记这本书的具体内容了，看来以后还是要尽早完成读书笔记的）
+计算机的世界都是用二进制的方式来表示的，所有的数据最终都可以用二进制表示。集成电路实际上是通过门电路的形式，让人们将所有的信息全部转换为开关的开与关两种状态。这就表达了计算机的世界的数字特征。而计算机能够解决的就是生活中重复、单调、枯燥的事项。所有具有这些特征的事项，都可以考虑通过计算机来得以解决。
+
+CPU中间的一部分就是集成电路的一部分，而四周的引脚，就是数据输入输出的端口。这个让我对于CPU有了更为深入的认识，甚至知道了早期的大型计算机，最初是通过控制开关来控制计算机的运行，而输入其实就是打孔的纸带。这些相关概念和原理对于理解计算机的运行机制打下了很好的基础。
+
+
+
+
+下一次扩展阅读书单（来自参考文献精选）：
+Physics for Future Presidents, Norton ,2008
+Blown to Bits: Your life, Liberty, and Happiness After the Digital Explosion, Addison-Wesley, 2008
+Jacquard's Web： How a Hand-Loom Led to the Birth of the INformation Age, Oxford University Press, 2004
+Computing machinery and intelligence.  http://loebner.net/Prizef/TuringArticle.html
+Javascript学习网站：http://w3schools.com
+THe Future of the Internet_And How to stop it.   Penguin, 2008
