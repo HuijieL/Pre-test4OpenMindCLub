@@ -1,5 +1,5 @@
 import random
-from urllib.request import urlopen
+from urllib  import urlopen
 import sys
 
 WORD_URL = "http://leanrcodethehardway.org/words.txt"
@@ -65,7 +65,7 @@ def convert(snippet, phrase):
 #keep going until they hit CTRL-D
 try:
 	while True:
-		snippets = list(PHRASES.keys())
+		snippets = PHRASES.keys()
 		random.shuffle(snippets)
 		
 		for snippet in snippets:
@@ -74,9 +74,9 @@ try:
 			if PHRASE_FIRST:
 				question, answer = answer, question
 				
-			print (question)
+			print question
 			
 			raw_input("> ")
-			print ("ANSWER: %s\n\n" % answer)
+			print "ANSWER: %s\n\n" % answer
 except EOFError:
-	print ("\nBye")
+	print "\nBye"
