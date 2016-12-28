@@ -1,6 +1,6 @@
 1.下载源代码。
 [pip-9.0.1.tar.gz(md5,pgp)](https://pypi.python.org/pypi/pip)
-![GitHub](D:\work\Pre-test4OpenMindCLub\pip-setup-steps "GitHub,Social Coding")
+![GitHub](D:\work\Pre-test4OpenMindCLub\pip-setup-steps\pic\pip-setup-1.png)
 
 2.将pip-9.0.1.tar.gz(md5,pgp)解压至python安装目录。
 
