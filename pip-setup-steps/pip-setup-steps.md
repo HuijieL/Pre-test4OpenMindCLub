@@ -9,6 +9,7 @@
 
 4.安装。在命令行中，cd C:\python27\pip-9.0.1>python setup.py install，回车。
 好多行程序刷屏。刷屏结束后，安装完毕。最后页面代码如下。
+
 ![](./pic/pip-setup-4.png)
 
 5.检测。在命令行中，cd C:\python27\pip-9.0.1>pip，回车。
