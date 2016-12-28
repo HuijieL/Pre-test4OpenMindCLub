@@ -1,6 +1,11 @@
 # Pre-test for PYTHON by Open Mind CLub
 ##1 Learn Python The Hard Way
 最后七个练习还没有完成，因为被卡在ex46中pip设置上，尝试了好几次了，一直没有设置成功，导致这后面的几个练习都不能顺利完成。
+
+遇到的困难，以及找到的解决办法如下：
+ * [%s 与 %r](.\Dif-%s&%r)
+ * [pip安装](.\pip-setup-steps)
+
 ##2 Git & GitHub
 Github的使用受网络影响，有时候分时间段尝试好几次都不能成功，有时候push非常慢，让我误以为我自己哪里又出错了。
 ##3 浪潮之巅
