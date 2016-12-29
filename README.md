@@ -14,7 +14,7 @@
 ##2 Git & GitHub
 Github的使用受网络影响，有时候分时间段尝试好几次都不能成功，有时候push非常慢，让我误以为我自己哪里又出错了。
 * git pull [远程仓库地址]:在远程仓库修改文件一下，需要pull到本地仓库。
-* git push
+* git push:将本地仓库的修改推送到远程仓库。
 	* 1 git add .
 	* 2 git commit -m"*****"
 	* 3 git push
