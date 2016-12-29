@@ -1,24 +1,3 @@
-##文件存储与运行
-把python文件全部保存在D:\work文件夹中
-每次运行时的步骤为：
-第一步：打开powershell
-第二步：输入 cd D:\work，进入python文件目录
-第三步：运行，python ex42.py，即可运行名称为ex42.py 的文件。
-
-##环境变量的设置
-1.问题：（Win10,64位操作系统）安装python2，在POWERSHELL运行python，出现“无法识别”的情况。
-“无法将python识别为cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写、如果包括路径，请确保路径正确，然后再试一次。”
-
- 
-解决办法：
-【第一步】设置环境变量：在powershell中输入命令（如上图所示）
-方案一：
-[ENVIRONMENT]::SETENVIRONMENTVARIABLE("PATH","$ENV:PATH;C:\PYTHON27","USER")
-方案二：在路径最后加"/"
-[ENVIRONMENT]::SETENVIRONMENTVARIABLE("PATH","$ENV:PATH;C:\PYTHON27/","USER")
-【第二步】重启电脑，使之生效
-设置完成以后，重启电脑，启动POWERSHELL,输入python检查,设置成功界面如下。
-
 
  
 
