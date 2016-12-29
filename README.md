@@ -5,7 +5,7 @@
 
 
 遇到的困难，以及找到的解决办法如下：
- * [%s与%r](.\Dif-%sand%r)
+ * [%s与%r](./Dif-%sand%r/Dif-%sand%r.md)
  * [pip安装](.\pip-setup-steps)
 
  
